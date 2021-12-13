@@ -9,6 +9,8 @@ Shellsay but it can really talk
 
 [Cargo(Rust)](https://rust-lang.org)
 
+[Git](https://git-scm.com)
+
 # Installations
 
 ### Linux/macOS
@@ -37,4 +39,5 @@ then copy target/release/SRS.exe to a known location
 # Credits
 
 Gon : Main developer
+
 Premier : Tester(victim)
