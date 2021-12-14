@@ -21,7 +21,11 @@ git clone https://github.com/ForesterBlox/shell-really-say.git
 cd shell-really-say
 cargo build --release
 ```
-then copy target/release/SRS to a known location or bin folder
+then copy target/release/SRS to a known location or bin directory
+
+#### Note
+
+If you want to move it to bin directory on macOS make sure to disable csutil by running `csutil disable;reboot` in [recovery mode](https://www.macworld.co.uk/how-to/mac-recovery-mode-3674052/) 
 
 ### Windows
 
@@ -31,7 +35,7 @@ git clone https://github.com/ForesterBlox/shell-really-say.git
 cd shell-really-say
 cargo build --release
 ```
-then copy target/release/SRS.exe to a known location
+then copy target/release/SRS.exe to a known location or bin directory
 
 
 
