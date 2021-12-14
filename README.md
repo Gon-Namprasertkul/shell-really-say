@@ -25,7 +25,7 @@ then copy target/release/SRS to a known location or bin directory
 
 #### Note
 
-If you want to move it to bin directory on macOS make sure to disable csutil by running `csutil disable;reboot` in [recovery mode](https://www.macworld.co.uk/how-to/mac-recovery-mode-3674052/) 
+If you want to make it a command on mac you shold make a custom directory and add it to `/etc/paths` and move the executable to that directory
 
 ### Windows
 
