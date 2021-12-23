@@ -11,34 +11,17 @@ Shellsay but it can really talk
 
 [Git](https://git-scm.com)
 
-# Installations
+# Install
 
-### Linux/macOS
-
-```bash
-cd ~
+```
 git clone https://github.com/ForesterBlox/shell-really-say.git
 cd shell-really-say
-cargo build --release
+make install
 ```
-then copy target/release/SRS to a known location or bin directory
 
-#### Note
+### To uninstall do
 
-If you want to make it a command on mac you shold make a custom directory and add it to `/etc/paths` and move the executable to that directory
-
-### Windows
-
-```bash
-cd ~
-git clone https://github.com/ForesterBlox/shell-really-say.git
-cd shell-really-say
-cargo build --release
-```
-then copy target/release/SRS.exe to a known location or bin directory
-
-
-
+`make clean`
 
 # Credits
 
