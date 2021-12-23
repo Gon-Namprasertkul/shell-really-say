@@ -16,7 +16,7 @@ Shellsay but it can really talk
 ```
 git clone https://github.com/ForesterBlox/shell-really-say.git
 cd shell-really-say
-make install
+make
 ```
 
 ### To uninstall do
