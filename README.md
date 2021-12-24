@@ -11,22 +11,7 @@ Shellsay but it can really talk
 
 [Git](https://git-scm.com)
 
-Make
-
-# Make
-
-## Make isn't built in on windows and mac
-
-### To install make on windows
-
-```
-@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "[System.Net.ServicePointManager]::SecurityProtocol = 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
-choco install make
-```
-
-### To install make on mac
-
-`xcode-select --install`
+[Make](https://sourceforge.net/projects/mingw-w64/)
 
 # Installation
 
@@ -48,6 +33,10 @@ make
 ### To uninstall do
 
 `make clean`
+
+### To uninstall with Homebrew
+
+`brew uninstall srs-mac`
 
 # Credits
 
