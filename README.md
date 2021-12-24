@@ -30,6 +30,15 @@ choco install make
 
 # Installation
 
+### OS X (Homebrew)
+
+```bash
+brew tap foresterblox/srs-tap
+brew install srs-mac
+```
+
+### Install from source
+
 ```
 git clone https://github.com/ForesterBlox/shell-really-say.git
 cd shell-really-say
