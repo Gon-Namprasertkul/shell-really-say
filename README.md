@@ -18,8 +18,7 @@ Shellsay but it can really talk
 ### OS X (Homebrew)
 
 ```bash
-brew tap foresterblox/srs-tap
-brew install srs-mac
+brew install SRS
 ```
 
 ### Install from source
