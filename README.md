@@ -18,7 +18,7 @@ Shellsay but it can really talk
 ### OS X (Homebrew)
 
 ```bash
-brew install SRS
+brew install SRS --build-from-source
 ```
 
 ### Install from source
