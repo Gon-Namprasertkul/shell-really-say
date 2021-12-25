@@ -35,7 +35,7 @@ make
 
 ### To uninstall with Homebrew
 
-`brew uninstall srs-mac`
+`brew uninstall SRS`
 
 # Credits
 
