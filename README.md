@@ -18,7 +18,8 @@ Shellsay but it can really talk
 ### OS X (Homebrew)
 
 ```bash
-brew install SRS --build-from-source
+brew tap foresterblox/foresterblox
+brew install ShellReallySay
 ```
 
 ### Install from source
@@ -35,7 +36,7 @@ make
 
 ### To uninstall with Homebrew
 
-`brew uninstall SRS`
+`brew uninstall ShellReallySay`
 
 # Credits
 
